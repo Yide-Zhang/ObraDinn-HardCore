@@ -1,0 +1,636 @@
+{
+ "keys": [
+  "welldone_3_first",
+  "welldone_3_more",
+  "help_faceclear_fates0",
+  "help_faceclear_fates1"
+ ],
+ "languages": {
+  "ar": {
+   "14": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺃﺭﺑﻌﺔ ﻋﺸﺮ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺃﺭﺑﻌﺔ ﻋﺸﺮ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺃﺭﺑﻌﺔ ﻋﺸﺮ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺃﺭﺑﻌﺔ ﻋﺸﺮ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "29": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺗﺴﻌﺔ ﻭﻋﺸﺮﻭﻥ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺗﺴﻌﺔ ﻭﻋﺸﺮﻭﻥ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺗﺴﻌﺔ ﻭﻋﺸﺮﻭﻥ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺗﺴﻌﺔ ﻭﻋﺸﺮﻭﻥ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "3": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺛﻼﺛﺔ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺛﻼﺛﺔ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺛﻼﺛﺔ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺛﻼﺛﺔ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "4": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺃﺭﺑﻌﺔ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺃﺭﺑﻌﺔ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺃﺭﺑﻌﺔ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺃﺭﺑﻌﺔ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "58": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺛﻤﺎﻧﻴﺔ ﻭﺧﻤﺴﻮﻥ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺛﻤﺎﻧﻴﺔ ﻭﺧﻤﺴﻮﻥ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺛﻤﺎﻧﻴﺔ ﻭﺧﻤﺴﻮﻥ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺛﻤﺎﻧﻴﺔ ﻭﺧﻤﺴﻮﻥ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "6": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺳﺘﺔ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺳﺘﺔ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺳﺘﺔ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺳﺘﺔ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   },
+   "9": {
+    "help_faceclear_fates0": "ﻳﺘﻢ ﺍﻟﺘﺤﻘﻖ ﻣﻦ ﻣﺼﺎﻳﺮ ﺍﻷﺷﺨﺎﺹ ﻓﻲ ﺩﻓﻌﺎﺕ ﻣﻦ ﺗﺴﻌﺔ.",
+    "help_faceclear_fates1": "ﻋﻠﻴﻚ ﺗﺤﺪﻳﺪ ﻫﻮﻳﺎﺕ ﻭﻣﺼﺎﻳﺮ ﺗﺴﻌﺔ ﺃﺷﺨﺎﺹ ﻋﻠﻰ ﺍﻷﻗﻞ ﺑﺼﺤﺔ ﻟﺘﺪﻭﻥ ﺍﻟﻤﻌﻠﻮﻣﺎﺕ ﻓﻲ ﺍﻟﻜﺘﺎﺏ.",
+    "welldone_3_first": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺗﺴﻌﺔ ﻣﺼﺎﻳﺮ ﺻﺤﻴﺤﺔ.",
+    "welldone_3_more": "ﺃﺣﺴﻨﺖ ﺻﻨﻌﺎ.\nﺇﻥ ﺗﺴﻌﺔ ﻣﺼﺎﻳﺮ ﺃﺧﺮﻯ ﺻﺤﻴﺤﺔ."
+   }
+  },
+  "de": {
+   "14": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von vierzehn bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens vierzehn Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nVierzehn Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nVierzehn weitere Schicksale korrekt."
+   },
+   "29": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von neunundzwanzig bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens neunundzwanzig Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nNeunundzwanzig Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nNeunundzwanzig weitere Schicksale korrekt."
+   },
+   "3": {
+    "help_faceclear_fates0": "Schicksale werden immer zu dritt bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens drei Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nDrei Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nDrei weitere Schicksale korrekt."
+   },
+   "4": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von vier bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens vier Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nVier Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nVier weitere Schicksale korrekt."
+   },
+   "58": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von achtundfünfzig bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens achtundfünfzig Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nAchtundfünfzig Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nAchtundfünfzig weitere Schicksale korrekt."
+   },
+   "6": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von sechs bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens sechs Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nSechs Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nSechs weitere Schicksale korrekt."
+   },
+   "9": {
+    "help_faceclear_fates0": "Schicksale werden immer in Gruppen von neun bestätigt.",
+    "help_faceclear_fates1": "Identifizieren Sie mindestens neun Personen korrekt und weisen Sie ihnen das richtige Schicksal zu, damit die entsprechenden Informationen im Buch erscheinen.",
+    "welldone_3_first": "Wohlgetan.\nNeun Schicksale korrekt.",
+    "welldone_3_more": "Wohlgetan.\nNeun weitere Schicksale korrekt."
+   }
+  },
+  "en": {
+   "14": {
+    "help_faceclear_fates0": "Fates are validated in sets of fourteen.",
+    "help_faceclear_fates1": "Correctly identify at least fourteen people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nFourteen fates correct.",
+    "welldone_3_more": "Well done.\nFourteen more fates correct."
+   },
+   "29": {
+    "help_faceclear_fates0": "Fates are validated in sets of twenty-nine.",
+    "help_faceclear_fates1": "Correctly identify at least twenty-nine people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nTwenty-nine fates correct.",
+    "welldone_3_more": "Well done.\nTwenty-nine more fates correct."
+   },
+   "3": {
+    "help_faceclear_fates0": "Fates are validated in sets of three.",
+    "help_faceclear_fates1": "Correctly identify at least three people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nThree fates correct.",
+    "welldone_3_more": "Well done.\nThree more fates correct."
+   },
+   "4": {
+    "help_faceclear_fates0": "Fates are validated in sets of four.",
+    "help_faceclear_fates1": "Correctly identify at least four people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nFour fates correct.",
+    "welldone_3_more": "Well done.\nFour more fates correct."
+   },
+   "58": {
+    "help_faceclear_fates0": "Fates are validated in sets of fifty-eight.",
+    "help_faceclear_fates1": "Correctly identify at least fifty-eight people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nFifty-eight fates correct.",
+    "welldone_3_more": "Well done.\nFifty-eight more fates correct."
+   },
+   "6": {
+    "help_faceclear_fates0": "Fates are validated in sets of six.",
+    "help_faceclear_fates1": "Correctly identify at least six people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nSix fates correct.",
+    "welldone_3_more": "Well done.\nSix more fates correct."
+   },
+   "9": {
+    "help_faceclear_fates0": "Fates are validated in sets of nine.",
+    "help_faceclear_fates1": "Correctly identify at least nine people and their fates to have the information typeset into the book.",
+    "welldone_3_first": "Well done.\nNine fates correct.",
+    "welldone_3_more": "Well done.\nNine more fates correct."
+   }
+  },
+  "es": {
+   "14": {
+    "help_faceclear_fates0": "Los sinos se validan de catorce en catorce.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos catorce personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nCatorce sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros catorce sinos correctos."
+   },
+   "29": {
+    "help_faceclear_fates0": "Los sinos se validan de veintinueve en veintinueve.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos veintinueve personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nVeintinueve sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros veintinueve sinos correctos."
+   },
+   "3": {
+    "help_faceclear_fates0": "Los sinos se validan de tres en tres.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos tres personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nTres sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros tres sinos correctos."
+   },
+   "4": {
+    "help_faceclear_fates0": "Los sinos se validan de cuatro en cuatro.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos cuatro personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nCuatro sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros cuatro sinos correctos."
+   },
+   "58": {
+    "help_faceclear_fates0": "Los sinos se validan de cincuenta y ocho en cincuenta y ocho.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos cincuenta y ocho personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nCincuenta y ocho sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros cincuenta y ocho sinos correctos."
+   },
+   "6": {
+    "help_faceclear_fates0": "Los sinos se validan de seis en seis.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos seis personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nSeis sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros seis sinos correctos."
+   },
+   "9": {
+    "help_faceclear_fates0": "Los sinos se validan de nueve en nueve.",
+    "help_faceclear_fates1": "Identifique correctamente los sinos de al menos nueve personas para que la información se muestre en el libro con letra de imprenta.",
+    "welldone_3_first": "Bien hecho.\nNueve sinos correctos.",
+    "welldone_3_more": "Bien hecho.\nOtros nueve sinos correctos."
+   }
+  },
+  "fr": {
+   "14": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de quatorze.",
+    "help_faceclear_fates1": "Identifiez au moins quatorze personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nQuatorze Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nQuatorze autres Sorts correctement dévoilés."
+   },
+   "29": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de vingt-neuf.",
+    "help_faceclear_fates1": "Identifiez au moins vingt-neuf personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nVingt-neuf Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nVingt-neuf autres Sorts correctement dévoilés."
+   },
+   "3": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de trois.",
+    "help_faceclear_fates1": "Identifiez au moins trois personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nTrois Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nTrois autres Sorts correctement dévoilés."
+   },
+   "4": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de quatre.",
+    "help_faceclear_fates1": "Identifiez au moins quatre personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nQuatre Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nQuatre autres Sorts correctement dévoilés."
+   },
+   "58": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de cinquante-huit.",
+    "help_faceclear_fates1": "Identifiez au moins cinquante-huit personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nCinquante-huit Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nCinquante-huit autres Sorts correctement dévoilés."
+   },
+   "6": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de six.",
+    "help_faceclear_fates1": "Identifiez au moins six personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nSix Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nSix autres Sorts correctement dévoilés."
+   },
+   "9": {
+    "help_faceclear_fates0": "Les Sorts sont validés par groupes de neuf.",
+    "help_faceclear_fates1": "Identifiez au moins neuf personnes avec les Sorts corrects pour que les informations soient validées dans le livre.",
+    "welldone_3_first": "Bien joué !\nNeuf Sorts correctement dévoilés.",
+    "welldone_3_more": "Bien joué !\nNeuf autres Sorts correctement dévoilés."
+   }
+  },
+  "it": {
+   "14": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di quattordici.",
+    "help_faceclear_fates1": "Identifica correttamente almeno quattordici persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nQuattordici sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre quattordici sorti corrette."
+   },
+   "29": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di ventinove.",
+    "help_faceclear_fates1": "Identifica correttamente almeno ventinove persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nVentinove sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre ventinove sorti corrette."
+   },
+   "3": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di tre.",
+    "help_faceclear_fates1": "Identifica correttamente almeno tre persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nTre sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre tre sorti corrette."
+   },
+   "4": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di quattro.",
+    "help_faceclear_fates1": "Identifica correttamente almeno quattro persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nQuattro sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre quattro sorti corrette."
+   },
+   "58": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di cinquantotto.",
+    "help_faceclear_fates1": "Identifica correttamente almeno cinquantotto persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nCinquantotto sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre cinquantotto sorti corrette."
+   },
+   "6": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di sei.",
+    "help_faceclear_fates1": "Identifica correttamente almeno sei persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nSei sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre sei sorti corrette."
+   },
+   "9": {
+    "help_faceclear_fates0": "Le sorti vengono convalidate in gruppi di nove.",
+    "help_faceclear_fates1": "Identifica correttamente almeno nove persone e le loro sorti per vedere le informazioni scritte sul libro.",
+    "welldone_3_first": "Ben fatto.\nNove sorti corrette.",
+    "welldone_3_more": "Ben fatto.\nAltre nove sorti corrette."
+   }
+  },
+  "ja": {
+   "14": {
+    "help_faceclear_fates0": "情報の正否確認は、14件ごとに行われる。",
+    "help_faceclear_fates1": "14名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n14名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに14名の正確な安否情報を取得。"
+   },
+   "29": {
+    "help_faceclear_fates0": "情報の正否確認は、29件ごとに行われる。",
+    "help_faceclear_fates1": "29名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n29名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに29名の正確な安否情報を取得。"
+   },
+   "3": {
+    "help_faceclear_fates0": "情報の正否確認は、3件ごとに行われる。",
+    "help_faceclear_fates1": "3名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n3名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに3名の正確な安否情報を取得。"
+   },
+   "4": {
+    "help_faceclear_fates0": "情報の正否確認は、4件ごとに行われる。",
+    "help_faceclear_fates1": "4名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n4名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに4名の正確な安否情報を取得。"
+   },
+   "58": {
+    "help_faceclear_fates0": "情報の正否確認は、58件ごとに行われる。",
+    "help_faceclear_fates1": "58名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n58名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに58名の正確な安否情報を取得。"
+   },
+   "6": {
+    "help_faceclear_fates0": "情報の正否確認は、6件ごとに行われる。",
+    "help_faceclear_fates1": "6名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n6名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに6名の正確な安否情報を取得。"
+   },
+   "9": {
+    "help_faceclear_fates0": "情報の正否確認は、9件ごとに行われる。",
+    "help_faceclear_fates1": "9名について正しい身元と安否情報を特定すると、その情報が手記に記録される。",
+    "welldone_3_first": "調査が進展。\n9名の正確な安否情報を取得。",
+    "welldone_3_more": "調査が進展。\nさらに9名の正確な安否情報を取得。"
+   }
+  },
+  "ko": {
+   "14": {
+    "help_faceclear_fates0": "14명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 14명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 14개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 14개 이상을 맞추셨습니다."
+   },
+   "29": {
+    "help_faceclear_fates0": "29명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 29명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 29개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 29개 이상을 맞추셨습니다."
+   },
+   "3": {
+    "help_faceclear_fates0": "3명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 3명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 3개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 3개 이상을 맞추셨습니다."
+   },
+   "4": {
+    "help_faceclear_fates0": "4명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 4명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 4개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 4개 이상을 맞추셨습니다."
+   },
+   "58": {
+    "help_faceclear_fates0": "58명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 58명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 58개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 58개 이상을 맞추셨습니다."
+   },
+   "6": {
+    "help_faceclear_fates0": "6명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 6명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 6개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 6개 이상을 맞추셨습니다."
+   },
+   "9": {
+    "help_faceclear_fates0": "9명의 신원과 운명을 특정할 때마다 알아낸 운명의 옳고 그름을 판별할 수 있습니다.",
+    "help_faceclear_fates1": "최소 9명의 신원과 운명을 정확하게 알아내어 일지에 해당 정보를 기록하십시오.",
+    "welldone_3_first": "잘하셨습니다.\n운명 9개를 맞추셨습니다.",
+    "welldone_3_more": "잘하셨습니다.\n운명 9개 이상을 맞추셨습니다."
+   }
+  },
+  "pl": {
+   "14": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po czternaście.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej czternastu osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos czternastu osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos czternastu kolejnych osób został poprawnie ustalony."
+   },
+   "29": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po dwadzieścia dziewięć.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej dwudziestu dziewięciu osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos dwudziestu dziewięciu osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos dwudziestu dziewięciu kolejnych osób został poprawnie ustalony."
+   },
+   "3": {
+    "help_faceclear_fates0": "Losy są zatwierdzane trójkami.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej trzech osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos trzech osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos trzech kolejnych osób został poprawnie ustalony."
+   },
+   "4": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po cztery.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej czterech osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos czterech osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos czterech kolejnych osób został poprawnie ustalony."
+   },
+   "58": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po pięćdziesiąt osiem.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej pięćdziesięciu ośmiu osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos pięćdziesięciu ośmiu osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos pięćdziesięciu ośmiu kolejnych osób został poprawnie ustalony."
+   },
+   "6": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po sześć.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej sześciu osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos sześciu osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos sześciu kolejnych osób został poprawnie ustalony."
+   },
+   "9": {
+    "help_faceclear_fates0": "Losy są zatwierdzane w grupach po dziewięć.",
+    "help_faceclear_fates1": "Zidentyfikuj poprawnie los i tożsamość przynajmniej dziewięciu osób, aby informacje te zostały wpisane do książki.",
+    "welldone_3_first": "Doskonale.\nLos dziewięciu osób został poprawnie ustalony.",
+    "welldone_3_more": "Doskonale.\nLos dziewięciu kolejnych osób został poprawnie ustalony."
+   }
+  },
+  "pt": {
+   "14": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de catorze.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos catorze pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nCatorze destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais catorze destinos solucionados."
+   },
+   "29": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de vinte e nove.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos vinte e nove pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nVinte e nove destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais vinte e nove destinos solucionados."
+   },
+   "3": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de três.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos três pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nTrês destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais três destinos solucionados."
+   },
+   "4": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de quatro.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos quatro pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nQuatro destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais quatro destinos solucionados."
+   },
+   "58": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de cinquenta e oito.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos cinquenta e oito pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nCinquenta e oito destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais cinquenta e oito destinos solucionados."
+   },
+   "6": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de seis.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos seis pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nSeis destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais seis destinos solucionados."
+   },
+   "9": {
+    "help_faceclear_fates0": "Destinos são validados em conjuntos de nove.",
+    "help_faceclear_fates1": "Identifique corretamente ao menos nove pessoas e seus destinos para que as informações sejam datilografadas no livro.",
+    "welldone_3_first": "Parabéns.\nNove destinos solucionados.",
+    "welldone_3_more": "Parabéns.\nMais nove destinos solucionados."
+   }
+  },
+  "ru": {
+   "14": {
+    "help_faceclear_fates0": "Проверяются участи четырнадцати человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы четырнадцать человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть четырнадцати определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще четырнадцати определена верно."
+   },
+   "29": {
+    "help_faceclear_fates0": "Проверяются участи двадцати девяти человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы двадцать девять человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть двадцати девяти определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще двадцати девяти определена верно."
+   },
+   "3": {
+    "help_faceclear_fates0": "Проверяются участи трех человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы трех человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть троих определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще троих определена верно."
+   },
+   "4": {
+    "help_faceclear_fates0": "Проверяются участи четырех человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы четырех человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть четверых определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще четверых определена верно."
+   },
+   "58": {
+    "help_faceclear_fates0": "Проверяются участи пятидесяти восьми человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы пятьдесят восемь человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть пятидесяти восьми определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще пятидесяти восьми определена верно."
+   },
+   "6": {
+    "help_faceclear_fates0": "Проверяются участи шести человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы шесть человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть шестерых определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще шестерых определена верно."
+   },
+   "9": {
+    "help_faceclear_fates0": "Проверяются участи девяти человек сразу.",
+    "help_faceclear_fates1": "Верно опознайте хотя бы девять человек и определите их участь, и эти сведения будут отпечатаны в книге.",
+    "welldone_3_first": "Отлично.\nУчасть девятерых определена верно.",
+    "welldone_3_more": "Отлично.\nУчасть еще девятерых определена верно."
+   }
+  },
+  "uk": {
+   "14": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по чотирнадцять.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше чотирнадцять людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували чотирнадцять долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще чотирнадцять долі."
+   },
+   "29": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по двадцять дев'ять.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше двадцять дев'ять людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували двадцять дев'ять долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще двадцять дев'ять долі."
+   },
+   "3": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по три.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше три людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували три долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще три долі."
+   },
+   "4": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по чотири.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше чотири людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували чотири долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще чотири долі."
+   },
+   "58": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по п'ятдесят вісім.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше п'ятдесят вісім людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували п'ятдесят вісім долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще п'ятдесят вісім долі."
+   },
+   "6": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по шість.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше шість людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували шість долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще шість долі."
+   },
+   "9": {
+    "help_faceclear_fates0": "Долі підтверджуються групами по дев'ять.",
+    "help_faceclear_fates1": "Необхідно правильно визначити щонайменше дев'ять людини і їхні долі, щоб цю інформацію було закарбовано в книжці.",
+    "welldone_3_first": "Чудово.\nВи з'ясували дев'ять долі.",
+    "welldone_3_more": "Чудово.\nВи з'ясували ще дев'ять долі."
+   }
+  },
+  "zh-s": {
+   "14": {
+    "help_faceclear_fates0": "下落以十四个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少十四人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有十四个下落正确。",
+    "welldone_3_more": "做得好。\n又有十四个下落正确。"
+   },
+   "29": {
+    "help_faceclear_fates0": "下落以二十九个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少二十九人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有二十九个下落正确。",
+    "welldone_3_more": "做得好。\n又有二十九个下落正确。"
+   },
+   "3": {
+    "help_faceclear_fates0": "下落以三个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少三人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有三个下落正确。",
+    "welldone_3_more": "做得好。\n又有三个下落正确。"
+   },
+   "4": {
+    "help_faceclear_fates0": "下落以四个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少四人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有四个下落正确。",
+    "welldone_3_more": "做得好。\n又有四个下落正确。"
+   },
+   "58": {
+    "help_faceclear_fates0": "下落以五十八个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少五十八人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有五十八个下落正确。",
+    "welldone_3_more": "做得好。\n又有五十八个下落正确。"
+   },
+   "6": {
+    "help_faceclear_fates0": "下落以六个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少六人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有六个下落正确。",
+    "welldone_3_more": "做得好。\n又有六个下落正确。"
+   },
+   "9": {
+    "help_faceclear_fates0": "下落以九个为一组验证。",
+    "help_faceclear_fates1": "正确识别至少九人的身份及其下落以将信息录入书中。",
+    "welldone_3_first": "做得好。\n有九个下落正确。",
+    "welldone_3_more": "做得好。\n又有九个下落正确。"
+   }
+  },
+  "zh-t": {
+   "14": {
+    "help_faceclear_fates0": "系統每次以十四人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少十四人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明十四人的下場。",
+    "welldone_3_more": "幹得好。\n又查明十四人的下場。"
+   },
+   "29": {
+    "help_faceclear_fates0": "系統每次以二十九人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少二十九人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明二十九人的下場。",
+    "welldone_3_more": "幹得好。\n又查明二十九人的下場。"
+   },
+   "3": {
+    "help_faceclear_fates0": "系統每次以三人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少三人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明三人的下場。",
+    "welldone_3_more": "幹得好。\n又查明三人的下場。"
+   },
+   "4": {
+    "help_faceclear_fates0": "系統每次以四人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少四人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明四人的下場。",
+    "welldone_3_more": "幹得好。\n又查明四人的下場。"
+   },
+   "58": {
+    "help_faceclear_fates0": "系統每次以五十八人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少五十八人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明五十八人的下場。",
+    "welldone_3_more": "幹得好。\n又查明五十八人的下場。"
+   },
+   "6": {
+    "help_faceclear_fates0": "系統每次以六人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少六人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明六人的下場。",
+    "welldone_3_more": "幹得好。\n又查明六人的下場。"
+   },
+   "9": {
+    "help_faceclear_fates0": "系統每次以九人為一組確認下場是否正確。",
+    "help_faceclear_fates1": "正確指認至少九人的身分和下場，使這些資料編入書中。",
+    "welldone_3_first": "幹得好。\n已查明九人的下場。",
+    "welldone_3_more": "幹得好。\n又查明九人的下場。"
+   }
+  }
+ },
+ "levels": [
+  3,
+  4,
+  6,
+  9,
+  14,
+  29,
+  58
+ ],
+ "note": "每个语言、每个档位下 4 个键的期望文本；用于从语言包反推档位"
+}
